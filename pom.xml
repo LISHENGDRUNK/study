@@ -12,6 +12,7 @@
         <module>excel</module>
         <module>tree</module>
         <module>phoenix</module>
+        <module>flink-demo</module>
     </modules>
 
     <properties>

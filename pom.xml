@@ -13,9 +13,14 @@
         <module>tree</module>
         <module>phoenix</module>
         <module>flink-demo</module>
+        <module>dataware</module>
+        <module>userprofile</module>
+        <module>recommend</module>
     </modules>
 
     <properties>
+        <spark.version>2.3.4</spark.version>
+        <scala.version>2.11.8</scala.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <spring.version>4.3.7.RELEASE</spring.version>
         <spring-security.version>4.1.0.RELEASE</spring-security.version>
@@ -26,7 +31,56 @@
         <presto.version>0.161</presto.version>
         <h2.version>1.4.196</h2.version>
     </properties>
+
+    <repositories>
+        <repository>
+            <id>scala-tools.org</id>
+            <name>Scala-Tools Maven2 Repository</name>
+            <url>http://scala-tools.org/repo-releases</url>
+        </repository>
+    </repositories>
+
+    <pluginRepositories>
+        <pluginRepository>
+            <id>scala-tools.org</id>
+            <name>Scala-Tools Maven2 Repository</name>
+            <url>http://scala-tools.org/repo-releases</url>
+        </pluginRepository>
+    </pluginRepositories>
+
     <dependencies>
+        <dependency>
+            <groupId>org.scala-lang</groupId>
+            <artifactId>scala-library</artifactId>
+            <version>${scala.version}</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.apache.spark/spark-sql -->
+        <dependency>
+            <groupId>org.apache.spark</groupId>
+            <artifactId>spark-sql_2.11</artifactId>
+            <version>${spark.version}</version>
+           <!-- <exclusions>
+                <exclusion>
+
+                </exclusion>
+            </exclusions>-->
+        </dependency>
+        <dependency>
+            <groupId>org.apache.spark</groupId>
+            <artifactId>spark-core_2.11</artifactId>
+            <version>${spark.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.spark</groupId>
+            <artifactId>spark-streaming_2.11</artifactId>
+            <version>${spark.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.spark</groupId>
+            <artifactId>spark-graphx_2.11</artifactId>
+            <version>${spark.version}</version>
+        </dependency>
+
         <dependency>
             <groupId>net.sourceforge.javacsv</groupId>
             <artifactId>javacsv</artifactId>

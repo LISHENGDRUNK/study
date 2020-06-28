@@ -16,6 +16,7 @@
         <module>dataware</module>
         <module>userprofile</module>
         <module>recommend</module>
+        <module>kafka</module>
     </modules>
 
     <properties>

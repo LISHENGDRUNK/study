@@ -2,127 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7367567a-120f-4e5f-87b2-0e37f2d6c77e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/excel.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/src/main/java/com/study/demo/excel/poi/CsvUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/src/main/java/com/study/demo/excel/poi/ExcelException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/src/main/java/com/study/demo/excel/poi/ExcelListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/src/main/java/com/study/demo/excel/poi/ExcelUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/src/main/java/com/study/demo/excel/poi/ExcelWriterFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/src/main/java/com/study/demo/excel/poi/excelcollect/ExcelTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/src/main/java/com/study/demo/excel/poi/excelcollect/ReadExcelToDataBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/src/main/java/com/study/demo/excel/poi/excelcollect/UploadAndParse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/src/main/java/com/study/demo/excel/poi/export/ExportCsv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/src/main/java/com/study/demo/excel/poi/export/ExportExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/src/main/java/com/study/demo/excel/poi/test/MetaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/src/main/java/com/study/demo/excel/poi/test/PoiTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/src/main/java/com/study/demo/excel/poi/test/ResultTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/src/main/java/com/study/demo/excel/poi/test/RunableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/src/main/java/com/study/demo/excel/poi/test/StringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/src/main/java/com/study/demo/excel/poi/test/ThreadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/src/main/java/com/study/demo/excel/poi/util/DbUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/src/main/java/com/study/demo/excel/poi/util/ExcelUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel/src/main/java/com/study/demo/excel/poi/util/OutputUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phoenix/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phoenix/src/main/java/com/study/demo/phoenix/PhoenixClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phoenix/src/main/java/com/study/demo/phoenix/util/ExcelUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phoenix/src/main/java/com/study/demo/phoenix/util/HBaseConn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phoenix/src/main/java/com/study/demo/phoenix/util/HBaseUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phoenix/src/main/java/com/study/demo/phoenix/util/PhoenixUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phoenix/src/main/resources/core-site.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phoenix/src/main/resources/hbase-env.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phoenix/src/main/resources/hbase-site.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phoenix/src/main/resources/hdfs-site.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phoenix/src/main/resources/jaas.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phoenix/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phoenix/src/main/resources/ssl-client.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/src/main/java/com/study/demo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/src/main/java/com/study/demo/tree/AVLTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/src/main/java/com/study/demo/tree/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/src/main/java/com/study/demo/tree/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/src/main/java/com/study/demo/tree/file/Files.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/src/main/java/com/study/demo/tree/pirnter/BinaryTreeInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/src/main/java/com/study/demo/tree/pirnter/BinaryTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/src/main/java/com/study/demo/tree/pirnter/InorderPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/src/main/java/com/study/demo/tree/pirnter/LevelOrderPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/src/main/java/com/study/demo/tree/pirnter/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/src/main/java/com/study/demo/tree/pirnter/Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/target/classes/com/study/demo/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/target/classes/com/study/demo/tree/AVLTree$AVLNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/target/classes/com/study/demo/tree/AVLTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/target/classes/com/study/demo/tree/BST.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/target/classes/com/study/demo/tree/BinaryTree$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/target/classes/com/study/demo/tree/BinaryTree$Visitor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/target/classes/com/study/demo/tree/BinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/target/classes/com/study/demo/tree/file/Files.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/target/classes/com/study/demo/tree/pirnter/BinaryTreeInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/target/classes/com/study/demo/tree/pirnter/BinaryTrees$PrintStyle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/target/classes/com/study/demo/tree/pirnter/BinaryTrees.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/target/classes/com/study/demo/tree/pirnter/InorderPrinter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/target/classes/com/study/demo/tree/pirnter/LevelOrderPrinter$LevelInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/target/classes/com/study/demo/tree/pirnter/LevelOrderPrinter$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/target/classes/com/study/demo/tree/pirnter/LevelOrderPrinter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/target/classes/com/study/demo/tree/pirnter/Printer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/target/classes/com/study/demo/tree/pirnter/Strings.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/tree.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataware/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dataware/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excel/excel.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hive-hook/hive-hook.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/kafka.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recommend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/recommend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tree/tree.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userprofile/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/userprofile/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userprofile/userprofile.iml" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/excel/target/" />
-    <ignored path="$PROJECT_DIR$/tree/target/" />
-    <ignored path="$PROJECT_DIR$/phoenix/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1954209129">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="26" />
-          <entry key="xml" value="10" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="26" />
-          <entry key="XML" value="10" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="1" />
-          <entry key="xml" value="11" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="1" />
-          <entry key="XML" value="11" />
-        </counts>
-      </usages-collector>
-    </session>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf />
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -132,58 +36,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="$PROJECT_DIR$/../azkaban" value="PREVIEW" />
-      </map>
-    </option>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/excel/src/main/java/com/study/demo/excel/poi/excelcollect/ReadExcelToDataBase.java" />
-        <option value="$PROJECT_DIR$/tree/src/main/java/com/study/demo/tree/AVLTree.java" />
-        <option value="$PROJECT_DIR$/tree/src/main/java/com/study/demo/tree/BinaryTree.java" />
-        <option value="$PROJECT_DIR$/tree/src/main/java/com/study/demo/Main.java" />
-        <option value="$PROJECT_DIR$/tree/pom.xml" />
-        <option value="$PROJECT_DIR$/phoenix/pom.xml" />
-        <option value="$PROJECT_DIR$/phoenix/src/main/java/com/study/demo/phoenix/util/HBaseUtil.java" />
-        <option value="$PROJECT_DIR$/phoenix/src/main/java/com/study/demo/phoenix/PhoenixClient.java" />
-        <option value="$PROJECT_DIR$/excel/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="607" />
-    <option name="y" value="80" />
-    <option name="width" value="1022" />
-    <option name="height" value="726" />
-  </component>
+  <component name="ProjectId" id="1ezNIxKnjwx0eKfTcM7mFZySGbd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587114418782" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/userprofile" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -195,23 +63,12 @@
       <recent name="com.study.demo" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\GIT\study\userprofile" />
+      <recent name="F:\GIT\study\recommend" />
+      <recent name="F:\GIT\study\dataware" />
+      <recent name="F:\GIT\study" />
       <recent name="F:\gitlab\study\phoenix\src\main\resources" />
-      <recent name="F:\gitlab\study\phoenix\src\main\java\com\study\demo\phoenix" />
-      <recent name="F:\gitlab\study\tree\src\main\java\com\study\demo" />
-      <recent name="F:\gitlab\study\excel\src\main\java\com\study\demo" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -250,224 +107,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587110514576</updated>
+      <workItem from="1595320387198" duration="283000" />
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="DB Browser" />
-      <window_info id="UI Designer" />
-      <window_info id="JRebel" side_tool="true" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="DB Execution Console" />
-      <window_info anchor="bottom" id="SBT Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="JRebel Executor" />
-      <window_info anchor="bottom" id="JRebel Console" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32916668" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32916668" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/excel/src/main/java/com/study/demo/excel/poi/export/ExportExcel.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/excel/src/main/java/com/study/demo/excel/poi/ExcelException.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/excel/src/main/java/com/study/demo/excel/poi/export/ExportCsv.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/excel/src/main/java/com/study/demo/excel/poi/ExcelWriterFactory.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/excel/src/main/java/com/study/demo/excel/poi/excelcollect/ExcelTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/excel/src/main/java/com/study/demo/excel/poi/test/ResultTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/excel/src/main/java/com/study/demo/excel/poi/test/ThreadTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/excel/src/main/java/com/study/demo/excel/poi/util/OutputUtil.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/excel/src/main/java/com/study/demo/excel/poi/excelcollect/UploadAndParse.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/excel/src/main/java/com/study/demo/excel/poi/excelcollect/ReadExcelToDataBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/src/main/java/com/study/demo/tree/file/Files.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/src/main/java/com/study/demo/tree/BST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/src/main/java/com/study/demo/tree/AVLTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/src/main/java/com/study/demo/tree/pirnter/Strings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/src/main/java/com/study/demo/tree/pirnter/Printer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/src/main/java/com/study/demo/tree/pirnter/LevelOrderPrinter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/src/main/java/com/study/demo/tree/pirnter/InorderPrinter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/src/main/java/com/study/demo/tree/pirnter/BinaryTrees.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/src/main/java/com/study/demo/tree/pirnter/BinaryTreeInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/src/main/java/com/study/demo/tree/BinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="103" column="45" selection-start-line="103" selection-start-column="45" selection-end-line="103" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/src/main/java/com/study/demo/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="37" column="29" lean-forward="true" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phoenix-hbase/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phoenix/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="54" column="21" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phoenix/src/main/java/com/study/demo/phoenix/util/PhoenixUtil.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phoenix/src/main/java/com/study/demo/phoenix/util/ExcelUtils.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phoenix/src/main/java/com/study/demo/phoenix/util/HBaseConn.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phoenix/src/main/java/com/study/demo/phoenix/util/HBaseUtil.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phoenix/src/main/java/com/study/demo/phoenix/PhoenixClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/excel/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="362" column="8" selection-start-line="362" selection-start-column="8" selection-end-line="362" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="32" column="21" lean-forward="true" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phoenix/src/main/resources/core-site.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="572" y="115" key="CommitChangelistDialog2" timestamp="1595320792948">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="572" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1595320792948" />
   </component>
   <component name="masterDetails">
     <states>

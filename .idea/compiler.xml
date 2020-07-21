@@ -6,9 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="excel" />
+        <module name="flink-demo" />
+        <module name="recommend" />
         <module name="phoenix" />
+        <module name="hive-hook" />
+        <module name="excel" />
+        <module name="kafka" />
         <module name="tree" />
+        <module name="dataware" />
+        <module name="userprofile" />
       </profile>
     </annotationProcessing>
   </component>

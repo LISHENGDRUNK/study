@@ -12,8 +12,10 @@
         <module name="hive-hook" />
         <module name="excel" />
         <module name="kafka" />
+        <module name="ECommerceRecommendSystem" />
         <module name="tree" />
         <module name="dataware" />
+        <module name="StatisticsRecommender" />
         <module name="userprofile" />
       </profile>
     </annotationProcessing>

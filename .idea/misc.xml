@@ -9,11 +9,14 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/hive-hook/pom.xml" />
+        <option value="$PROJECT_DIR$/ECommerceRecommendSystem/recommender/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/phoenix-hbase/pom.xml" />
+        <option value="$PROJECT_DIR$/recommender/DataLoader/test/pom.xml" />
+        <option value="$PROJECT_DIR$/recommender/test/pom.xml" />
       </set>
     </option>
   </component>

@@ -17,8 +17,8 @@
         <module>userprofile</module>
         <module>recommend</module>
         <module>kafka</module>
-        <module>recommender</module>
         <module>ECommerceRecommendSystem</module>
+        <module>spark</module>
     </modules>
 
     <properties>

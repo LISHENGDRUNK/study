@@ -2,5 +2,12 @@
 <project version="4">
   <component name="ScalaCompilerConfiguration">
     <profile name="Maven 1" modules="DataLoader,StatisticsRecommender,dataware,recommend,recommender,userprofile" />
+    <profile name="Maven 2" modules="样例代码">
+      <parameters>
+        <parameter value="-target:jvm-1.6" />
+        <parameter value="-encoding" />
+        <parameter value="UTF-8" />
+      </parameters>
+    </profile>
   </component>
 </project>

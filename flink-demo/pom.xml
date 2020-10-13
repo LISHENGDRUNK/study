@@ -13,7 +13,7 @@
 
     <properties>
         <scala.version>2.11.8</scala.version>
-        <junit.version>4.4</junit.version>
+        <junit.version>4.13.1</junit.version>
         <scala.binary.version>2.11</scala.binary.version>
         <flink.version>1.9.0</flink.version>
         <flink.redis.version>1.0</flink.redis.version>
